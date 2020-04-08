@@ -1,7 +1,8 @@
 User-agent: *
 Disallow: 
 Crawl-delay: 5
-Disallow: /images/
-Disallow: /css/
-Disallow: /js/
 Disallow: /contact.html
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /js/
